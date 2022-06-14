@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` and `private contributions` by users in Andorra on `2022/6/14 9:06 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` and `private contributions` by users in Andorra on `2022/6/14 6:08 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/MattyTheHacker/top-github-users).
 
@@ -116,8 +116,8 @@ There are `214 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Mojito, Andorra Tech Valley,<br/>Gmzcodes<br/></td>
 		<td><a href="https://twitter.com/gmzcodes">gmzcodes</a></td>
 		<td>Andorra & Barcelona</td>
-		<td>1244</td>
-		<td>1856</td>
+		<td>1247</td>
+		<td>1865</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -131,7 +131,7 @@ There are `214 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>1</td>
-		<td>1672</td>
+		<td>1684</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -145,7 +145,7 @@ There are `214 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Barcelona / Andorra</td>
 		<td>4</td>
-		<td>1225</td>
+		<td>1226</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -173,7 +173,7 @@ There are `214 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>84</td>
-		<td>978</td>
+		<td>981</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -186,8 +186,8 @@ There are `214 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>2stable </td>
 		<td><a href="https://twitter.com/i40504">i40504</a></td>
 		<td>Andorra</td>
-		<td>966</td>
-		<td>966</td>
+		<td>967</td>
+		<td>967</td>
 	</tr>
 	<tr>
 		<td>7</td>
@@ -271,7 +271,7 @@ There are `214 users`  in Andorra. You need at least `0 followers` to be on this
 		<td><a href="https://twitter.com/franc">franc</a></td>
 		<td>Andorra la Vella, Andorra, Europe</td>
 		<td>11</td>
-		<td>814</td>
+		<td>816</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -285,7 +285,7 @@ There are `214 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>84</td>
-		<td>712</td>
+		<td>725</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -299,7 +299,7 @@ There are `214 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>132</td>
-		<td>664</td>
+		<td>673</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -313,7 +313,7 @@ There are `214 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
 		<td>20</td>
-		<td>639</td>
+		<td>642</td>
 	</tr>
 	<tr>
 		<td>16</td>
@@ -332,6 +332,20 @@ There are `214 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>17</td>
 		<td>
+			<a href="https://github.com/ruluzor">
+				<img src="https://avatars.githubusercontent.com/u/44289847?s=72&u=f3e007dc15cc606bfbfdf9c097b247176278b69b&v=4" width="24" alt="Avatar of ruluzor"> ruluzor
+			</a><br/>
+			Ruben Lucas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>0</td>
+		<td>376</td>
+	</tr>
+	<tr>
+		<td>18</td>
+		<td>
 			<a href="https://github.com/l3wi">
 				<img src="https://avatars.githubusercontent.com/u/1716917?s=72&u=6384487469a80c98506cbeade4b7221057dfb97c&v=4" width="24" alt="Avatar of l3wi"> l3wi
 			</a><br/>
@@ -342,20 +356,6 @@ There are `214 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Andorra</td>
 		<td>171</td>
 		<td>356</td>
-	</tr>
-	<tr>
-		<td>18</td>
-		<td>
-			<a href="https://github.com/ruluzor">
-				<img src="https://avatars.githubusercontent.com/u/44289847?s=72&u=f3e007dc15cc606bfbfdf9c097b247176278b69b&v=4" width="24" alt="Avatar of ruluzor"> ruluzor
-			</a><br/>
-			Ruben Lucas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>1</td>
-		<td>354</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -648,8 +648,8 @@ There are `214 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Santa Coloma</td>
-		<td>58</td>
-		<td>58</td>
+		<td>59</td>
+		<td>59</td>
 	</tr>
 	<tr>
 		<td>40</td>
