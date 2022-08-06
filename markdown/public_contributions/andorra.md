@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `public contributions` by users in Andorra on `2022/8/6 12:11 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `public contributions` by users in Andorra on `2022/8/6 9:05 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/MattyTheHacker/top-github-users).
 
@@ -458,6 +458,19 @@ There are `222 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>28</td>
 		<td>
+			<a href="https://github.com/DiMiTriFrog">
+				<img src="https://avatars.githubusercontent.com/u/38754548?s=72&u=16e081a04e02802f528110a8582ab442a172e373&v=4" width="24" alt="Avatar of DiMiTriFrog"> DiMiTriFrog
+			</a><br/>
+			DiMiTriFrog
+		</td>
+		<td>Strattonapps </td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
+		<td>48</td>
+	</tr>
+	<tr>
+		<td>29</td>
+		<td>
 			<a href="https://github.com/MrPolymath">
 				<img src="https://avatars.githubusercontent.com/u/15792218?s=72&u=00763fa0c02096077d0cf820efd4dd13668e4f22&v=4" width="24" alt="Avatar of MrPolymath"> MrPolymath
 			</a><br/>
@@ -467,19 +480,6 @@ There are `222 users`  in Andorra. You need at least `0 followers` to be on this
 		<td><a href="https://twitter.com/danipolymath">danipolymath</a></td>
 		<td>Andorra</td>
 		<td>47</td>
-	</tr>
-	<tr>
-		<td>29</td>
-		<td>
-			<a href="https://github.com/DiMiTriFrog">
-				<img src="https://avatars.githubusercontent.com/u/38754548?s=72&u=16e081a04e02802f528110a8582ab442a172e373&v=4" width="24" alt="Avatar of DiMiTriFrog"> DiMiTriFrog
-			</a><br/>
-			DiMiTriFrog
-		</td>
-		<td>Strattonapps </td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>44</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -1381,14 +1381,14 @@ There are `222 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>99</td>
 		<td>
-			<a href="https://github.com/heldertorres">
-				<img src="https://avatars.githubusercontent.com/u/2523035?s=72&u=619a6ec1c8d6896464e3205933307816a31eaa53&v=4" width="24" alt="Avatar of heldertorres"> heldertorres
+			<a href="https://github.com/camorimd">
+				<img src="https://avatars.githubusercontent.com/u/7240716?s=72&v=4" width="24" alt="Avatar of camorimd"> camorimd
 			</a><br/>
-			Helder Manuel Torres Vieira
+			Claudio Amorim
 		</td>
-		<td>@innki-tech </td>
-		<td><a href="https://twitter.com/heldertorresv">heldertorresv</a></td>
-		<td>Andorra la Vella</td>
+		<td>Credit Andorrà </td>
+		<td>No Twitter Username</td>
+		<td>Andorra, Principat d'Andorra</td>
 		<td>1</td>
 	</tr>
 	<tr>
@@ -1498,19 +1498,6 @@ There are `222 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>108</td>
 		<td>
-			<a href="https://github.com/dox-nerazim">
-				<img src="https://avatars.githubusercontent.com/u/99420765?s=72&v=4" width="24" alt="Avatar of dox-nerazim"> dox-nerazim
-			</a><br/>
-			DoX
-		</td>
-		<td>Nerazim </td>
-		<td>No Twitter Username</td>
-		<td>Andorra la Vella</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>109</td>
-		<td>
 			<a href="https://github.com/SinzerAD">
 				<img src="https://avatars.githubusercontent.com/u/103202214?s=72&v=4" width="24" alt="Avatar of SinzerAD"> SinzerAD
 			</a><br/>
@@ -1519,6 +1506,19 @@ There are `222 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Sinzerad </td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>109</td>
+		<td>
+			<a href="https://github.com/dox-nerazim">
+				<img src="https://avatars.githubusercontent.com/u/99420765?s=72&v=4" width="24" alt="Avatar of dox-nerazim"> dox-nerazim
+			</a><br/>
+			DoX
+		</td>
+		<td>Nerazim </td>
+		<td>No Twitter Username</td>
+		<td>Andorra la Vella</td>
 		<td>1</td>
 	</tr>
 	<tr>
