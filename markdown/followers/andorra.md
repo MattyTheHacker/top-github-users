@@ -5,7 +5,7 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2022/8/8 8:07 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2022/8/9 7:05 AM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/MattyTheHacker/top-github-users).
 
@@ -237,19 +237,6 @@ There are `223 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>11</td>
 		<td>
-			<a href="https://github.com/sgirones">
-				<img src="https://avatars.githubusercontent.com/u/597063?s=72&u=73fb90c3f92d8b88b6bbca23cc9aac50ecc6131e&v=4" width="24" alt="Avatar of sgirones"> sgirones
-			</a><br/>
-			Salvador Girones Gil
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>12</td>
-		<td>
 			<a href="https://github.com/elsampsa">
 				<img src="https://avatars.githubusercontent.com/u/13978980?s=72&u=7b04cf3ab6651a699b16aa6d2eb8f04d54db5370&v=4" width="24" alt="Avatar of elsampsa"> elsampsa
 			</a><br/>
@@ -258,6 +245,19 @@ There are `223 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>Silo.ai </td>
 		<td>No Twitter Username</td>
 		<td>Andorra La Vella</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>12</td>
+		<td>
+			<a href="https://github.com/sgirones">
+				<img src="https://avatars.githubusercontent.com/u/597063?s=72&u=73fb90c3f92d8b88b6bbca23cc9aac50ecc6131e&v=4" width="24" alt="Avatar of sgirones"> sgirones
+			</a><br/>
+			Salvador Girones Gil
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
 		<td>26</td>
 	</tr>
 	<tr>
@@ -718,19 +718,6 @@ There are `223 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>48</td>
 		<td>
-			<a href="https://github.com/PaulMatencio">
-				<img src="https://avatars.githubusercontent.com/u/5259065?s=72&v=4" width="24" alt="Avatar of PaulMatencio"> PaulMatencio
-			</a><br/>
-			Paul Matencio
-		</td>
-		<td>Retired </td>
-		<td><a href="https://twitter.com/paulMatencio">paulMatencio</a></td>
-		<td>Andorra</td>
-		<td>5</td>
-	</tr>
-	<tr>
-		<td>49</td>
-		<td>
 			<a href="https://github.com/MrPolymath">
 				<img src="https://avatars.githubusercontent.com/u/15792218?s=72&u=00763fa0c02096077d0cf820efd4dd13668e4f22&v=4" width="24" alt="Avatar of MrPolymath"> MrPolymath
 			</a><br/>
@@ -738,6 +725,19 @@ There are `223 users`  in Andorra. You need at least `0 followers` to be on this
 		</td>
 		<td>Rapidand </td>
 		<td><a href="https://twitter.com/danipolymath">danipolymath</a></td>
+		<td>Andorra</td>
+		<td>5</td>
+	</tr>
+	<tr>
+		<td>49</td>
+		<td>
+			<a href="https://github.com/PaulMatencio">
+				<img src="https://avatars.githubusercontent.com/u/5259065?s=72&v=4" width="24" alt="Avatar of PaulMatencio"> PaulMatencio
+			</a><br/>
+			Paul Matencio
+		</td>
+		<td>Retired </td>
+		<td><a href="https://twitter.com/paulMatencio">paulMatencio</a></td>
 		<td>Andorra</td>
 		<td>5</td>
 	</tr>
@@ -1121,19 +1121,6 @@ There are `223 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>79</td>
 		<td>
-			<a href="https://github.com/bockp">
-				<img src="https://avatars.githubusercontent.com/u/10536344?s=72&u=72fb8c41096b20a6ad13fbd296c64f1a4fecfbfb&v=4" width="24" alt="Avatar of bockp"> bockp
-			</a><br/>
-			Peter bock (@pbock)
-		</td>
-		<td>Rapidi Online </td>
-		<td><a href="https://twitter.com/Peter_Bock">Peter_Bock</a></td>
-		<td>Ordino, Andorra</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>80</td>
-		<td>
 			<a href="https://github.com/sitnesTIC">
 				<img src="https://avatars.githubusercontent.com/u/46478162?s=72&u=d44cbc7329691afbdd1a30c5db80c584a9d0c3e7&v=4" width="24" alt="Avatar of sitnesTIC"> sitnesTIC
 			</a><br/>
@@ -1145,7 +1132,7 @@ There are `223 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>81</td>
+		<td>80</td>
 		<td>
 			<a href="https://github.com/polmoya">
 				<img src="https://avatars.githubusercontent.com/u/24393088?s=72&u=0cb424839a0d6d23bb462e0affd564108f8fd245&v=4" width="24" alt="Avatar of polmoya"> polmoya
@@ -1155,6 +1142,19 @@ There are `223 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Andorra</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>81</td>
+		<td>
+			<a href="https://github.com/bockp">
+				<img src="https://avatars.githubusercontent.com/u/10536344?s=72&u=72fb8c41096b20a6ad13fbd296c64f1a4fecfbfb&v=4" width="24" alt="Avatar of bockp"> bockp
+			</a><br/>
+			Peter bock (@pbock)
+		</td>
+		<td>Rapidi Online </td>
+		<td><a href="https://twitter.com/Peter_Bock">Peter_Bock</a></td>
+		<td>Ordino, Andorra</td>
 		<td>2</td>
 	</tr>
 	<tr>
@@ -1264,19 +1264,6 @@ There are `223 users`  in Andorra. You need at least `0 followers` to be on this
 	<tr>
 		<td>90</td>
 		<td>
-			<a href="https://github.com/temgo">
-				<img src="https://avatars.githubusercontent.com/u/6066793?s=72&v=4" width="24" alt="Avatar of temgo"> temgo
-			</a><br/>
-			Jacques Temgo
-		</td>
-		<td>Temgo.me & Co </td>
-		<td>No Twitter Username</td>
-		<td>Andorra</td>
-		<td>2</td>
-	</tr>
-	<tr>
-		<td>91</td>
-		<td>
 			<a href="https://github.com/albertoadan">
 				<img src="https://avatars.githubusercontent.com/u/17050741?s=72&u=4345e08515f051d70c8420f0288191003dc82259&v=4" width="24" alt="Avatar of albertoadan"> albertoadan
 			</a><br/>
@@ -1285,6 +1272,19 @@ There are `223 users`  in Andorra. You need at least `0 followers` to be on this
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Santa Coloma de Gramenet, Barcelona. Spain.</td>
+		<td>2</td>
+	</tr>
+	<tr>
+		<td>91</td>
+		<td>
+			<a href="https://github.com/temgo">
+				<img src="https://avatars.githubusercontent.com/u/6066793?s=72&v=4" width="24" alt="Avatar of temgo"> temgo
+			</a><br/>
+			Jacques Temgo
+		</td>
+		<td>Temgo.me & Co </td>
+		<td>No Twitter Username</td>
+		<td>Andorra</td>
 		<td>2</td>
 	</tr>
 	<tr>
