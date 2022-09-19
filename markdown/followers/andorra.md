@@ -5,11 +5,11 @@
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg" alt="Andorra">
 </a>
 
-The `number of followers` of users in Andorra on `2022/9/19 1:42 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
+The `number of followers` of users in Andorra on `2022/9/19 10:06 PM UTC`. This list contains users from `Andorra` and cities `Andorra-la-vella` `Santa-coloma` `La-margineda` `Engolasters`.
 
 There are `9 countries` and `68 cities` can be found [here](https://github.com/MattyTheHacker/top-github-users).
 
-There are `230 users`  in Andorra. You need at least `0 followers` to be on this list.
+There are `234 users`  in Andorra. You need at least `0 followers` to be on this list.
 
 <table>
 	<tr>
@@ -177,10 +177,10 @@ There are `230 users`  in Andorra. You need at least `0 followers` to be on this
 			</a><br/>
 			Dani Gámez Franco
 		</td>
-		<td>Mojito, Andorra Tech Valley,<br/>Gmzcodes<br/></td>
+		<td>Andorra Tech Valley, Gmzcodes<br/></td>
 		<td><a href="https://twitter.com/gmzcodes">gmzcodes</a></td>
 		<td>Andorra & Barcelona</td>
-		<td>61</td>
+		<td>62</td>
 	</tr>
 	<tr>
 		<td>7</td>
